@@ -1,0 +1,67 @@
+body {
+    background: url(img/img1.jpg);
+}
+
+.card-box {
+    background: linear-gradient(#9A5044, #E8D9A9);
+    width: 300px;
+    height: 670px;
+    border-radius: 10px;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 20px 20px 35px #434040;
+    margin-top: 200px;
+}
+
+.card {
+    border-radius: 15px;
+    margin-left: 25px;
+}
+
+.name {
+    padding-left: 30%;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500px;
+    color: rgb(0, 0, 0);
+}
+
+.card-title {
+    padding-left: 6%;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 550px;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    padding-left: 27%;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    padding-left: 43%;
+    color: rgb(0, 0, 0);
+}
+
+.btn-keeper {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 27px;
+
+}
+
+.btn {
+    background-color: rgb(237, 253, 4);
+    padding: 7px 12px;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    border-radius: 5px;
+    transition: background-color 0.5s;
+}
+
+.btn:hover {
+    background-color: rgb(233, 34, 34);
+}
